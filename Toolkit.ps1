@@ -1,4 +1,3 @@
-﻿﻿# Lisa vajalikud Assembly-d
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
 
